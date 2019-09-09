@@ -1,9 +1,9 @@
-name: "chinga tu madre"
+name: "Ecosistemas Empresariales"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "¿Que estudiamos?"
   left:
-    - text: "Home"
+    - text: "red social piloto"
       href: index.html
     - text: "About"
       href: about.html
